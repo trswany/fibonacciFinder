@@ -9,7 +9,9 @@ Find and print Fibonacci numbers. Prints "Buzz" and "Fizz" for style.
 ## Usage
 
 Calculate and print the first n numbers of the Fibonacci Sequence with:
+
 ./fibonacciFinder n
+
 Example: ./fibonacciFinder 10
 
 To test the Fibonacci algorithm, use:
@@ -18,25 +20,45 @@ To test the Fibonacci algorithm, use:
 ## Example Output
 
 $ ./fibonacciFinder 20
+
 0
+
 1
+
 1
+
 BuzzFizz
+
 Buzz
+
 Fizz
+
 8
+
 BuzzFizz
+
 Buzz
+
 34
+
 Fizz
+
 BuzzFizz
+
 Buzz
+
 BuzzFizz
+
 377
+
 Fizz
+
 Buzz
+
 BuzzFizz
+
 2584
+
 4181
 
 ## Contributing
